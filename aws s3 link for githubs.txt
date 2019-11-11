@@ -3,3 +3,8 @@
 https://github.com/AmazonCodeBase/AmazonS3WithJava
 youtube : https://www.youtube.com/watch?v=Cnf0wXowWDM
 ------
+
+
+Elatic cache
+
+https://medium.com/fernando-pereiro/caching-strategy-with-dynamodb-streams-aws-lambda-and-elasticache-2b309333cff9
