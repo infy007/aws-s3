@@ -8,3 +8,5 @@ youtube : https://www.youtube.com/watch?v=Cnf0wXowWDM
 Elatic cache
 
 https://medium.com/fernando-pereiro/caching-strategy-with-dynamodb-streams-aws-lambda-and-elasticache-2b309333cff9
+
+https://stackoverflow.com/questions/44741141/how-to-use-aws-elasticache-from-lambda-in-c-sharp
